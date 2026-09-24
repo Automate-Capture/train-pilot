@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/train-pilot"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Lumi-node/train-pilot"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version"></a>
-  <a href="https://github.com/Lumi-node/train-pilot"><img src="https://img.shields.io/badge/Tests-11%2B-green.svg" alt="Tests"></a>
+  <a href="https://github.com/Automate-Capture/train-pilot"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/Automate-Capture/train-pilot"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python Version"></a>
+  <a href="https://github.com/Automate-Capture/train-pilot"><img src="https://img.shields.io/badge/Tests-11%2B-green.svg" alt="Tests"></a>
 </p>
 
 ---

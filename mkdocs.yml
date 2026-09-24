@@ -1,10 +1,10 @@
 site_name: TrainPilot
-site_url: https://lumi-node.github.io/train-pilot/
+site_url: https://automate-capture.github.io/train-pilot/
 site_description: "Hardware-aware agent to orchestrate and optimize NN training workloads."
 site_author: Andrew Young
-repo_url: https://github.com/Lumi-node/train-pilot
-repo_name: Lumi-node/train-pilot
-edit_uri: edit/main/docs/
+repo_url: https://github.com/Automate-Capture/train-pilot
+repo_name: Automate-Capture/train-pilot
+edit_uri: edit/master/docs/
 
 theme:
   name: material
@@ -62,7 +62,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lumi-node/train-pilot
+      link: https://github.com/Automate-Capture/train-pilot
   generator: false
 
 extra_css:

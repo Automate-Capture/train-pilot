@@ -5,7 +5,7 @@ Thank you for your interest in contributing to TrainPilot!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/train-pilot.git
+git clone https://github.com/Automate-Capture/train-pilot.git
 cd train-pilot
 pip install -e ".[dev]"
 ```
